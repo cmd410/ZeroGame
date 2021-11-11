@@ -16,3 +16,5 @@ A godot project template with 3d games in mind.
 - `assets/` - game assets(models, textures, etc.) go here
     - `assets/src` - source files for assets(not ready for importing into godot engine)
 - `test/` - put GUT tests here
+- `docs/` - project documentation, concepts and stuff go here
+ 
