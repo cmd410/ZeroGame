@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.insertSpaces": false
+	},
+	"extensions": {
+		"recommendations": [
+			"geequlim.godot-tools",
+			"eamodio.gitlens",
+			"mhutchie.git-graph"
+		]
+	}
+}
