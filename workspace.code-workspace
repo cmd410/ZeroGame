@@ -11,7 +11,8 @@
 		"recommendations": [
 			"geequlim.godot-tools",
 			"eamodio.gitlens",
-			"mhutchie.git-graph"
+			"mhutchie.git-graph",
+			"bitwes.gut-extension"
 		]
 	}
 }

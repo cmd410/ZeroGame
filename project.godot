@@ -25,7 +25,7 @@ config/icon="res://icon.png"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/interpolated_camera_3d/plugin.cfg", "res://addons/project_map/plugin.cfg" )
+enabled=PoolStringArray( "res://addons/gut/plugin.cfg", "res://addons/interpolated_camera_3d/plugin.cfg", "res://addons/project_map/plugin.cfg" )
 
 [gdnative]
 
